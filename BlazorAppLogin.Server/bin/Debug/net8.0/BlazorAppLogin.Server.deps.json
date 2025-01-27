@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlazorAppLogin.Server/1.0.0": {
+        "dependencies": {
+          "BlazorAppLogin.Shared": "1.0.0"
+        },
+        "runtime": {
+          "BlazorAppLogin.Server.dll": {}
+        }
+      },
+      "BlazorAppLogin.Shared/1.0.0": {
+        "runtime": {
+          "BlazorAppLogin.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorAppLogin.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlazorAppLogin.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
