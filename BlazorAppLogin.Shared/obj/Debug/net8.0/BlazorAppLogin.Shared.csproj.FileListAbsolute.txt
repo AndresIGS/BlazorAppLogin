@@ -1,0 +1,11 @@
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\bin\Debug\net8.0\BlazorAppLogin.Shared.deps.json
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\bin\Debug\net8.0\BlazorAppLogin.Shared.dll
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\bin\Debug\net8.0\BlazorAppLogin.Shared.pdb
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\obj\Debug\net8.0\BlazorAppLogin.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\obj\Debug\net8.0\BlazorAppLogin.Shared.AssemblyInfoInputs.cache
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\obj\Debug\net8.0\BlazorAppLogin.Shared.AssemblyInfo.cs
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\obj\Debug\net8.0\BlazorAppLogin.Shared.csproj.CoreCompileInputs.cache
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\obj\Debug\net8.0\BlazorAppLogin.Shared.dll
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\obj\Debug\net8.0\refint\BlazorAppLogin.Shared.dll
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\obj\Debug\net8.0\BlazorAppLogin.Shared.pdb
+C:\Users\kukus\source\repos\BlazorAppLogin.Shared\obj\Debug\net8.0\ref\BlazorAppLogin.Shared.dll
